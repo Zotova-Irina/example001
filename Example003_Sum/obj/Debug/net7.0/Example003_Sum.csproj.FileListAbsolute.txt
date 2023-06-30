@@ -1,0 +1,15 @@
+/Users/irina/Examples/Example003_Sum/bin/Debug/net7.0/Example003_Sum
+/Users/irina/Examples/Example003_Sum/bin/Debug/net7.0/Example003_Sum.deps.json
+/Users/irina/Examples/Example003_Sum/bin/Debug/net7.0/Example003_Sum.runtimeconfig.json
+/Users/irina/Examples/Example003_Sum/bin/Debug/net7.0/Example003_Sum.dll
+/Users/irina/Examples/Example003_Sum/bin/Debug/net7.0/Example003_Sum.pdb
+/Users/irina/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.csproj.AssemblyReference.cache
+/Users/irina/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irina/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.AssemblyInfoInputs.cache
+/Users/irina/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.AssemblyInfo.cs
+/Users/irina/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.csproj.CoreCompileInputs.cache
+/Users/irina/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.dll
+/Users/irina/Examples/Example003_Sum/obj/Debug/net7.0/refint/Example003_Sum.dll
+/Users/irina/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.pdb
+/Users/irina/Examples/Example003_Sum/obj/Debug/net7.0/Example003_Sum.genruntimeconfig.cache
+/Users/irina/Examples/Example003_Sum/obj/Debug/net7.0/ref/Example003_Sum.dll
